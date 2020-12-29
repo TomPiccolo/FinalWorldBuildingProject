@@ -393,45 +393,5 @@ PrefabInstance:
       propertyPath: m_Name
       value: CheckIfPressedAnim
       objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.44731617
-      objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.47053176
-      objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.029083833
-      objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.6704047
-      objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.17676765
-      objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.16784589
-      objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.7008129
-      objectReference: {fileID: 0}
-    - target: {fileID: 6662564113814382764, guid: 504fc596a5b394099a2ba6f2e9ad6c93,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -92.911
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 504fc596a5b394099a2ba6f2e9ad6c93, type: 3}
